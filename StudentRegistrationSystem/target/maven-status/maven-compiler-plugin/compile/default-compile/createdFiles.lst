@@ -1,0 +1,6 @@
+entity\model\Course.class
+entity\model\Student.class
+converter\CourseConverter.class
+com\example\studentregistrationsystem\JakartaRestConfiguration.class
+bean\StudentBean.class
+com\example\studentregistrationsystem\resources\JakartaEE10Resource.class
