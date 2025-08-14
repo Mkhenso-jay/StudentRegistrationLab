@@ -23,16 +23,17 @@ A **Jakarta EE** web application built with **JavaServer Faces (JSF)** to manage
 ## 📂 Project Structure
 
 StudentRegistrationLab/
-├── StudentRegistrationSystem/  # JSF Student Registration System files
-│   ├── index.xhtml             # Registration form page
-│   ├── studentList.xhtml       # Student list page
-│   ├── Screenshot1.png         # Screenshot of student list page
-│   └── Screenshot2.png         # Screenshot of registration form page
-├── src/                        # Source files
-├── target/                     # Compiled output and build artifacts
-├── nb-configuration/           # NetBeans configuration
-├── pom.xml                      # Maven build file
-└── README.md                   # Project documentation
+    StudentRegistrationSystem/
+        index.xhtml             # Registration form page
+        studentList.xhtml       # Student list page
+        Screenshot1.png         # Screenshot of student list page
+        Screenshot2.png         # Screenshot of registration form page
+    src/                        # Source files
+    target/                     # Compiled output and build artifacts
+    nb-configuration/           # NetBeans configuration
+    pom.xml                      # Maven build file
+    README.md                   # Project documentation
+
 
 
 
