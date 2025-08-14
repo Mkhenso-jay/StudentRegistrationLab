@@ -20,21 +20,6 @@ A **Jakarta EE** web application built with **JavaServer Faces (JSF)** to manage
 - **NetBeans IDE**: Development environment
 - **Maven**: Build and dependency management
 
-## 📂 Project Structure
-
-StudentRegistrationLab/
-    StudentRegistrationSystem/
-        index.xhtml             # Registration form page
-        studentList.xhtml       # Student list page
-        Screenshot1.png         # Screenshot of student list page
-        Screenshot2.png         # Screenshot of registration form page
-    src/                        # Source files
-    target/                     # Compiled output and build artifacts
-    nb-configuration/           # NetBeans configuration
-    pom.xml                      # Maven build file
-    README.md                   # Project documentation
-
-
 
 
 ## ⚙️ How to Run Locally
