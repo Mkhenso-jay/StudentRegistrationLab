@@ -67,11 +67,14 @@ Troubleshooting
 Ensure GlassFish is running (check Services tab).
 Verify pom dependencies match your environment.
 
-📸 Screenshots
+## 📸 Screenshots
 
-1.[Registration Form Page]
+### 1. Registration Form Page
 
-<img src="Screenshot2.png" alt="Registration Form"> (This screenshot shows the index.xhtml page of the JSF Student Registration System at http://localhost:8080/StudentRegistrationSystem/index.xhtml. It displays the student registration form with input fields for name, course, and other details, along with server-side validation messages, illustrating the primary interface for adding new students.)
-2.[Student List Page]
+![Registration Form](Screenshots/Screenshot2.png)  
+*This screenshot shows the `index.xhtml` page of the JSF Student Registration System at `http://localhost:8080/StudentRegistrationSystem/index.xhtml`. It displays the student registration form with input fields for name, course, and other details, along with server-side validation messages, illustrating the primary interface for adding new students.*
 
-<img src="Screenshot1.png" alt="Student List"> (This screenshot captures the studentList.xhtml page at http://localhost:8080/StudentRegistrationSystem/studentList.xhtml. It presents a table or list of registered students, showcasing the data management feature of the application after successful registrations.)
+### 2. Student List Page
+
+![Student List](Screenshots/Screenshot1.png)  
+*This screenshot captures the `studentList.xhtml` page at `http://localhost:8080/StudentRegistrationSystem/studentList.xhtml`. It presents a table or list of registered students, showcasing the data management feature of the application after successful registrations.*
